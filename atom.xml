@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>ZNOI&#39;s blog</title>
+  
+  
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2024-10-13T12:32:22.512Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>3Luby3 &amp; ATION001</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>「ZNOI」出题组</title>
+    <link href="http://example.com/2024/10/13/%E3%80%8CZNOI%E3%80%8D%E5%87%BA%E9%A2%98%E7%BB%84/"/>
+    <id>http://example.com/2024/10/13/%E3%80%8CZNOI%E3%80%8D%E5%87%BA%E9%A2%98%E7%BB%84/</id>
+    <published>2024-10-13T12:30:38.000Z</published>
+    <updated>2024-10-13T12:32:22.512Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="ZNOI-出题组BLOG正式上线。"><a href="#ZNOI-出题组BLOG正式上线。" class="headerlink" title="ZNOI 出题组BLOG正式上线。"></a>ZNOI 出题组BLOG正式上线。</h1>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;ZNOI-出题组BLOG正式上线。&quot;&gt;&lt;a href=&quot;#ZNOI-出题组BLOG正式上线。&quot; class=&quot;headerlink&quot; title=&quot;ZNOI 出题组BLOG正式上线。&quot;&gt;&lt;/a&gt;ZNOI 出题组BLOG正式上线。&lt;/h1&gt;</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
